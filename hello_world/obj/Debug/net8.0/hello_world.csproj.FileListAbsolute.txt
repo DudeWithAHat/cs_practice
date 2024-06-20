@@ -1,0 +1,14 @@
+/home/jdev/cs_practice/hello_world/bin/Debug/net8.0/hello_world
+/home/jdev/cs_practice/hello_world/bin/Debug/net8.0/hello_world.deps.json
+/home/jdev/cs_practice/hello_world/bin/Debug/net8.0/hello_world.runtimeconfig.json
+/home/jdev/cs_practice/hello_world/bin/Debug/net8.0/hello_world.dll
+/home/jdev/cs_practice/hello_world/bin/Debug/net8.0/hello_world.pdb
+/home/jdev/cs_practice/hello_world/obj/Debug/net8.0/hello_world.GeneratedMSBuildEditorConfig.editorconfig
+/home/jdev/cs_practice/hello_world/obj/Debug/net8.0/hello_world.AssemblyInfoInputs.cache
+/home/jdev/cs_practice/hello_world/obj/Debug/net8.0/hello_world.AssemblyInfo.cs
+/home/jdev/cs_practice/hello_world/obj/Debug/net8.0/hello_world.csproj.CoreCompileInputs.cache
+/home/jdev/cs_practice/hello_world/obj/Debug/net8.0/hello_world.dll
+/home/jdev/cs_practice/hello_world/obj/Debug/net8.0/refint/hello_world.dll
+/home/jdev/cs_practice/hello_world/obj/Debug/net8.0/hello_world.pdb
+/home/jdev/cs_practice/hello_world/obj/Debug/net8.0/hello_world.genruntimeconfig.cache
+/home/jdev/cs_practice/hello_world/obj/Debug/net8.0/ref/hello_world.dll

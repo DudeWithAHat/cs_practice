@@ -1,0 +1,14 @@
+/home/jdev/cs_practice/Chapter3_Projects/SimpleCSharpApp/bin/Debug/net8.0/SimpleCSharpApp
+/home/jdev/cs_practice/Chapter3_Projects/SimpleCSharpApp/bin/Debug/net8.0/SimpleCSharpApp.deps.json
+/home/jdev/cs_practice/Chapter3_Projects/SimpleCSharpApp/bin/Debug/net8.0/SimpleCSharpApp.runtimeconfig.json
+/home/jdev/cs_practice/Chapter3_Projects/SimpleCSharpApp/bin/Debug/net8.0/SimpleCSharpApp.dll
+/home/jdev/cs_practice/Chapter3_Projects/SimpleCSharpApp/bin/Debug/net8.0/SimpleCSharpApp.pdb
+/home/jdev/cs_practice/Chapter3_Projects/SimpleCSharpApp/obj/Debug/net8.0/SimpleCSharpApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/jdev/cs_practice/Chapter3_Projects/SimpleCSharpApp/obj/Debug/net8.0/SimpleCSharpApp.AssemblyInfoInputs.cache
+/home/jdev/cs_practice/Chapter3_Projects/SimpleCSharpApp/obj/Debug/net8.0/SimpleCSharpApp.AssemblyInfo.cs
+/home/jdev/cs_practice/Chapter3_Projects/SimpleCSharpApp/obj/Debug/net8.0/SimpleCSharpApp.csproj.CoreCompileInputs.cache
+/home/jdev/cs_practice/Chapter3_Projects/SimpleCSharpApp/obj/Debug/net8.0/SimpleCSharpApp.dll
+/home/jdev/cs_practice/Chapter3_Projects/SimpleCSharpApp/obj/Debug/net8.0/refint/SimpleCSharpApp.dll
+/home/jdev/cs_practice/Chapter3_Projects/SimpleCSharpApp/obj/Debug/net8.0/SimpleCSharpApp.pdb
+/home/jdev/cs_practice/Chapter3_Projects/SimpleCSharpApp/obj/Debug/net8.0/SimpleCSharpApp.genruntimeconfig.cache
+/home/jdev/cs_practice/Chapter3_Projects/SimpleCSharpApp/obj/Debug/net8.0/ref/SimpleCSharpApp.dll

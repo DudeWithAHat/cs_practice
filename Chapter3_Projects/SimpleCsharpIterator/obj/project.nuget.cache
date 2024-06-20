@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "hWoLkviCwCcpjn4r19Ar64o6A+lePq19k546Vetjfi2CsHPxxD4poQM8biBZVTjzkWP51yqlMa95LrGtvfdp2Q==",
+  "success": true,
+  "projectFilePath": "/home/jdev/cs_practice/Chapter3_Projects/SimpleCsharpIterator/SimpleCSharpIterator.csproj",
+  "expectedPackageFiles": [
+    "/home/jdev/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.6/microsoft.aspnetcore.app.ref.8.0.6.nupkg.sha512"
+  ],
+  "logs": []
+}

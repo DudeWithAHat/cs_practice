@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "7ypySWE7wJ5D7roNHkuj6MNfv3wL2HSQdg03z5lcDe9yTIU+PRzEQNvfmS7NXsJ1MiMlakDn2JHbMXpElkQ4eQ==",
+  "success": true,
+  "projectFilePath": "/home/jdev/cs_practice/Chapter3_Projects/SimpleCSharpStrings/SimpleCSharpStrings.csproj",
+  "expectedPackageFiles": [
+    "/home/jdev/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.6/microsoft.aspnetcore.app.ref.8.0.6.nupkg.sha512"
+  ],
+  "logs": []
+}
