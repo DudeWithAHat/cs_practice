@@ -1,0 +1,15 @@
+/home/jdev/cs_practice/ReferenceVsValue/bin/Debug/net8.0/ReferenceVsValue
+/home/jdev/cs_practice/ReferenceVsValue/bin/Debug/net8.0/ReferenceVsValue.deps.json
+/home/jdev/cs_practice/ReferenceVsValue/bin/Debug/net8.0/ReferenceVsValue.runtimeconfig.json
+/home/jdev/cs_practice/ReferenceVsValue/bin/Debug/net8.0/ReferenceVsValue.dll
+/home/jdev/cs_practice/ReferenceVsValue/bin/Debug/net8.0/ReferenceVsValue.pdb
+/home/jdev/cs_practice/ReferenceVsValue/obj/Debug/net8.0/ReferenceVsValue.GeneratedMSBuildEditorConfig.editorconfig
+/home/jdev/cs_practice/ReferenceVsValue/obj/Debug/net8.0/ReferenceVsValue.AssemblyInfoInputs.cache
+/home/jdev/cs_practice/ReferenceVsValue/obj/Debug/net8.0/ReferenceVsValue.AssemblyInfo.cs
+/home/jdev/cs_practice/ReferenceVsValue/obj/Debug/net8.0/ReferenceVsValue.csproj.CoreCompileInputs.cache
+/home/jdev/cs_practice/ReferenceVsValue/obj/Debug/net8.0/ReferenceVsValue.sourcelink.json
+/home/jdev/cs_practice/ReferenceVsValue/obj/Debug/net8.0/ReferenceVsValue.dll
+/home/jdev/cs_practice/ReferenceVsValue/obj/Debug/net8.0/refint/ReferenceVsValue.dll
+/home/jdev/cs_practice/ReferenceVsValue/obj/Debug/net8.0/ReferenceVsValue.pdb
+/home/jdev/cs_practice/ReferenceVsValue/obj/Debug/net8.0/ReferenceVsValue.genruntimeconfig.cache
+/home/jdev/cs_practice/ReferenceVsValue/obj/Debug/net8.0/ref/ReferenceVsValue.dll

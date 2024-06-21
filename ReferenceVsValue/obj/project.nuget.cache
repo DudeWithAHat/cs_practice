@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "JTbbe5CExxJxE/3qu8nFmBrj5nHg8d0R3ERyd0Uqp7Ovzb6NVZJwTUc/1xKPKelukJu3dp65MULHCgw+s7C5BQ==",
+  "success": true,
+  "projectFilePath": "/home/jdev/cs_practice/ReferenceVsValue/ReferenceVsValue.csproj",
+  "expectedPackageFiles": [
+    "/home/jdev/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.6/microsoft.aspnetcore.app.ref.8.0.6.nupkg.sha512"
+  ],
+  "logs": []
+}
