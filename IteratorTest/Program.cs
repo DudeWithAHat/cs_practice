@@ -1,5 +1,4 @@
-﻿using System;
-using static IteratorClass.Iterator;
+﻿using static IteratorClass.Iterator;
 
 namespace SimpleCsharpIterator
 {
