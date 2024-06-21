@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0A+OyTVLTLDD3BqN08ouBUEEji6frqxTCK7PbfU34CK9fDkHbzn1DxzJeGgbQfe7qE5GSxP5EICCzVPTfp/Rcg==",
+  "success": true,
+  "projectFilePath": "/home/jdev/cs_practice/QueryTest/QueryTest.csproj",
+  "expectedPackageFiles": [
+    "/home/jdev/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.6/microsoft.aspnetcore.app.ref.8.0.6.nupkg.sha512"
+  ],
+  "logs": []
+}

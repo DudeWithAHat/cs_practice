@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "IhDt5J2QfeH9R7Vxj9vZhjmAUppMH+mVuwMLPw0AC0SnX3RZCCzb9xSysxLSB9YNnzCboKaazwevuvPDZXmEAQ==",
+  "success": true,
+  "projectFilePath": "/home/jdev/cs_practice/IteratorTest/IteratorTest.csproj",
+  "expectedPackageFiles": [
+    "/home/jdev/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.6/microsoft.aspnetcore.app.ref.8.0.6.nupkg.sha512"
+  ],
+  "logs": []
+}
